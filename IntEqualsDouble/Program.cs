@@ -222,6 +222,7 @@ namespace IntEqualsDouble
             int i, val;
             for (i = 0; i < taskInfo.span; i++)
             {
+                //计算内容
                 val = taskInfo.begin + i;
                 d = double.Parse(String.Format("{0}.0", val));
                 rs[i] = val == d;
