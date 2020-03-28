@@ -25,3 +25,4 @@ Procedures for detecting Int32 and Double comparisons under .NET Core 3.1.
 其他内容：
 我之后 也 许 会加一点注释，方便你们修改这个程序去做别的测试。
 立Flag：我一定会改的。
+我觉得我没得脸声明BSD3，因为没得人会拿这个做商业宣传。
